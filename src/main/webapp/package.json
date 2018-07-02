@@ -1,0 +1,16 @@
+{
+  "name": "wservidor",
+  "version": "1.0.0",
+  "description": "Mi Servidor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jesus",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^0.7.2"
+  },
+  "devDependencies": {}
+}
